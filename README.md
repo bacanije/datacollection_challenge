@@ -29,13 +29,19 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
 4. Examine the data types that are currently associated with each column. If necessary, cast (or convert) the data to the appropriate datetime, int, or float data types.
 5. Analyze your dataset by using Pandas functions to answer the following questions:
 How many months exist on Mars?
-
+- there are 12 months
+  
 How many Martian (and not Earth) days worth of data exist in the scraped dataset?
-
+- 1867 martian days
+  
 What are the coldest and the warmest months on Mars (at the location of Curiosity)?
-
+- Coldest month: 3rd month -83.307292
+- Hottest month: 8th month -68.382979
+  
 Which months have the lowest and the highest atmospheric pressure on Mars? 
+- Highest pressure: 9th month 913.305970
+- lowest pressure: 6th month 745.054422
 
 About how many terrestrial (Earth) days exist in a Martian year? 
-
+- 675 Earth days
 
